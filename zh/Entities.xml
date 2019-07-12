@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Entities>
     <Agents>
         <CFO>
@@ -47,7 +47,8 @@
         </Pilot>
         <RampAgent>
             <name>紧急救援人员</name>
-            <description>飞机卡住了？呼叫紧急救援人员！只需支付少量的费用，他们就能帮您“清空”地面上所有的飞机。他们是一次性服务，所以当工作完成后就会离开。被评为“黄金拖车奖”。</description>
+            <description>飞机卡住了？呼叫紧急救援人员！只需支付少量的费用，他们就能帮您“清空”地面上所有的飞机。
+                他们是一次性服务，所以当工作完成后就会离开。被评为“黄金拖车奖”。</description>
         </RampAgent>
         <Security>
             <name>安检</name>
@@ -119,7 +120,8 @@
         </Chef>
         <AirlineRep>
             <name>销售代表</name>
-            <description>为航空公司指派销售代表，以提高沟通和信任！他们将全天与航空公司保持良好的沟通。不过要想让他们正常工作，您需要建立会议室，在那里他们才能自动安排会议。</description>
+            <description>为航空公司指派销售代表，以提高沟通和信任！他们将全天与航空公司保持良好的沟通。
+                不过要想让他们正常工作，您需要建立会议室，在那里他们才能自动安排会议。</description>
         </AirlineRep>
     </Agents>
     <Objects>
@@ -135,7 +137,8 @@
         </RunwayApproachLights>
         <RunwayILS>
             <name>跑道 ILS</name>
-            <description>仪表着陆系统让大型飞机采用精准的仪器进行降落路径修正。最大侧风容忍度从12Kt上升到20Kt。这意味着因为天气造成的延误更少，与天气相关的事故风险也更低。它还能帮您吸引‘大型’航空公司。</description>
+            <description>仪表着陆系统让大型飞机采用精准的仪器进行降落路径修正。最大侧风容忍度从12Kt上升到20Kt。
+                这意味着因为天气造成的延误更少，与天气相关的事故风险也更低。它还能帮您吸引‘大型’航空公司。</description>
         </RunwayILS>
         <RunwayLights>
             <name>跑道灯</name>
@@ -467,19 +470,23 @@
         </PAAmplifier>
         <PAAmplifierHD>
             <name>公共广播系统（升级版）</name>
-            <description>公共广播系统提供公告、登机通知和最后一刻的信息。 有助于避免错过航班，尽管太多通知也可能有点烦扰乘客！ 这一升级版本能为您提供更多音响和登机口，音质也更好。</description>
+            <description>公共广播系统提供公告、登机通知和最后一刻的信息。 有助于避免错过航班，尽管太多通知也可能有点烦扰乘客！ 
+                这一升级版本能为您提供更多音响和登机口，音质也更好。</description>
         </PAAmplifierHD>
         <PASpeaker>
             <name>公共广播音响</name>
-            <description>公共广播系统提供公告、登机通知和最后一刻的信息。 有助于避免错过航班，尽管也可能有点烦扰乘客！广播成“声锥”扩散。</description>
+            <description>公共广播系统提供公告、登机通知和最后一刻的信息。 有助于避免错过航班，尽管也可能有点烦扰乘客！
+                广播呈“声锥”扩散。</description>
         </PASpeaker>
         <PASpeaker2-Way>
             <name>公共广播音响（双向）</name>
-            <description>公共广播系统提供公告、登机通知和最后一刻的信息。  有助于避免错过航班，尽管也可能有点烦扰乘客！ 这是双向音响，以相反方向广播两个“声锥”。</description>
+            <description>公共广播系统提供公告、登机通知和最后一刻的信息。  有助于避免错过航班，尽管也可能有点烦扰乘客！ 
+                这是双向音响，以相反方向广播两个“声锥”。</description>
         </PASpeaker2-Way>
         <PhoneChargerStation>
             <name>手机充电站</name>
-            <description>在最新一次软件更新后，乘客的手机只剩5%电了？  这正是他们所需要的！帮助乘客避免无聊和纠结，但运营和维护也很昂贵。</description>
+            <description>在最新一次软件更新后，乘客的手机只剩5%电了？  这正是他们所需要的！
+                帮助乘客避免无聊和纠结，但运营和维护也很昂贵。</description>
         </PhoneChargerStation>
         <PizzaJoint>
             <name>披萨店</name>
@@ -684,7 +691,8 @@
         </DrinkVending>
         <FlightInfoKiosk>
             <name>航班信息亭</name>
-            <description>乘客经常需要帮助，找到他们要去的地方，以便他们能按时登机，而这些机器是绝对的黄金标准。钟声也许不能救他们，但没关系——有了这个售货亭，他们会及时赶到登机口！</description>
+            <description>乘客经常需要帮助，找到他们要去的地方，以便他们能按时登机，而这些机器是绝对的黄金标准。
+                钟声也许不能救他们，但没关系——有了这个售货亭，他们会及时赶到登机口！</description>
         </FlightInfoKiosk>
         <BoosterPanel>
             <name>增压器面板</name>
@@ -805,11 +813,13 @@
         </AsphaltRunway>
         <OneWayPath>
             <name>单向路标</name>
-            <description>控制乘客在机场内的行走路线。使用时要小心计划，记住乘客必须始终有进入/离开机场的通道，以防错过航班或发生紧急情况！</description>
+            <description>控制乘客在机场内的行走路线。
+                使用时要小心计划，记住乘客必须始终有进入/离开机场的通道，以防错过航班或发生紧急情况！</description>
         </OneWayPath>
         <ReceptionDesk>
             <name>接待处</name>
-            <description>当由安全部门操作时，航空公司的访客可以使用它进入安全区域。来访者包括到会议室开会的人和在办公室工作的航空公司管理人员。</description>
+            <description>当由安全部门操作时，航空公司的访客可以使用它进入安全区域。
+                来访者包括到会议室开会的人和在办公室工作的航空公司管理人员。</description>
         </ReceptionDesk>
         <CrossWalk>
             <name>人行横道</name>
